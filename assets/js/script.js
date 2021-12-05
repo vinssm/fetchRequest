@@ -10,6 +10,7 @@
 // })
 
 
+// Promise is new addition to Java Script! Note that Promises have a method called then(). This method is called when the Promise has been fulfilled.
 
 var repoList = document.querySelector('ul');
 var fetchButton = document.getElementById('fetch-button');
